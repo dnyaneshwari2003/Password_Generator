@@ -3,7 +3,7 @@
 
 A simple and secure password generator built using Python and Tkinter. This tool allows users to create strong, random passwords based on selected character sets (digits, letters, special characters).
 
----
+
 
 ## 🖥️ Features
 
