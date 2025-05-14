@@ -19,9 +19,8 @@ A simple and secure password generator built using Python and Tkinter. This tool
 
 ## 📸 Screenshot
 
-(Include a screenshot image of the app here if available.)
+![image](https://github.com/user-attachments/assets/3bb1d742-ea8a-45bb-9f6d-ccd8af02dedd)
 
----
 
 ## 🚀 Getting Started
 
