@@ -16,7 +16,6 @@ A simple and secure password generator built using Python and Tkinter. This tool
   * Special characters (!@#\$%^&\*, etc.)
 * Random and secure password generation
 
----
 
 ## 📸 Screenshot
 
