@@ -36,11 +36,7 @@ A simple and secure password generator built using Python and Tkinter. This tool
 4. The generated password will appear in the output field
 
 
-## 📂 Project Structure
 
-* `password_generator_ui.py`: Main application file
-* `README.md`: Project documentation
-* `screenshot.png`: (Optional) GUI screenshot
 
 
 
