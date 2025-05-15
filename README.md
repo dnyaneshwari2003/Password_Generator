@@ -22,18 +22,6 @@ A simple and secure password generator built using Python and Tkinter. This tool
 ![image](https://github.com/user-attachments/assets/3bb1d742-ea8a-45bb-9f6d-ccd8af02dedd)
 
 
-## 🚀 Getting Started
-
-### 1. Prerequisites
-
-* Python 3.x installed
-* Tkinter (included with standard Python distributions)
-
-### 2. Run the application
-
-1. Open the project in VS Code
-2. Run the script: `password_generator_ui.py`
-3. Use the GUI to generate passwords
 
 
 ## 🧠 How It Works
@@ -47,7 +35,6 @@ A simple and secure password generator built using Python and Tkinter. This tool
 3. Click the "Generate Password" button
 4. The generated password will appear in the output field
 
----
 
 ## 📂 Project Structure
 
@@ -55,15 +42,7 @@ A simple and secure password generator built using Python and Tkinter. This tool
 * `README.md`: Project documentation
 * `screenshot.png`: (Optional) GUI screenshot
 
----
 
-## 📌 Future Enhancements
 
-* Copy to clipboard button
-* Save passwords to a file
-* Password strength meter
-* Dark mode interface
-
----
 
 
