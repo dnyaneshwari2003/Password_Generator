@@ -35,7 +35,6 @@ A simple and secure password generator built using Python and Tkinter. This tool
 2. Run the script: `password_generator_ui.py`
 3. Use the GUI to generate passwords
 
----
 
 ## 🧠 How It Works
 
